@@ -43,7 +43,7 @@ export default function App() {
       <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>{answer}</div>
       <footer>
         <h2>
-          Do you want to check if your birth year is a leap year? If yes, <a href="https://miscellaneous2.netlify.app/"> click
+          Do you want to check if your birth date is a prime number? If yes, <a href="https://miscellaneous2.netlify.app/"> click
           here</a>.
         </h2>
       </footer>
